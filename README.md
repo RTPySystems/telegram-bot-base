@@ -1,6 +1,6 @@
-![TELEGRAM Bot Base por RTPySystems](assets/banner.svg)
+![TELEGRAM Bot Base por RTPySystems](assets/banner.png)
 
-![Node.js 24 LTS · grammY 1.46.0 · MIT · ESM](assets/badges.svg)
+![Node.js 24 LTS · grammY 1.46.0 · MIT · ESM](assets/badges.png)
 
 # Telegram Bot Base
 
@@ -21,7 +21,7 @@ tem seu lugar, do primeiro comando até o encerramento do processo.
 | **Fluxo previsível**      | Middlewares pequenos, limite por usuário, tratamento de erros da API e long polling com parada segura.            |
 | **Qualidade e segurança** | ESLint, Prettier, testes com `node:test`, CI configurada, configuração validada e logs sem conteúdo de conversas. |
 
-![Fluxo: UPDATE → MIDDLEWARE → COMANDO → BOT API](assets/architecture.svg)
+![Fluxo: UPDATE → MIDDLEWARE → COMANDO → BOT API](assets/architecture.png)
 
 ## Começar
 
